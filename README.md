@@ -1,2 +1,2 @@
 # Trigonometrix
-Trigonometry Quiz 
+Trigonometry Quiz App created in Android Studio(java).
