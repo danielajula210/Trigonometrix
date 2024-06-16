@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/titlu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="#FFFFFF"
+        android:gravity="start"
+        android:padding="16dp"
+        android:text="Cursul 5: Teorema sinusului și cosinusului"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:id="@+id/textViewCourse5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textColor="@color/black"
+        android:background="#FFFFFF"
+        android:gravity="start"
+        android:padding="16dp"
+        android:text="Textul din fișierul ciorna5.txt"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/titlu"
+        android:layout_marginTop="15dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewCourse5"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/fig5"/>
+
+    <TextView
+        android:id="@+id/textViewCourse5_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_below="@id/imageView"
+        android:textColor="@color/black"
+        android:background="#FFFFFF"
+        android:padding="16dp"
+        android:text="Textul din fișierul ciorna5_2.txt"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewCourse5_2"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/fig5_2" />
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:text="Înapoi" />
+
+</RelativeLayout>

@@ -1,0 +1,1 @@
+Dacă laturile unui triunghi oarecare sunt a, b și c și unghiurile opuse acestor laturi sunt A, B și C, atunci teorema sinusurilor enunță (unde "R" este raza cercului circumscris triunghiului):

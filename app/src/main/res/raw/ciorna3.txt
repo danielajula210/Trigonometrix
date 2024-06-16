@@ -1,0 +1,1 @@
+Secanta (abreviată sec) este o funcție trigonometrică periodică, reciproca funcției cosinus, definită în contextul unui triunghi dreptunghic ca fiind raportul dintre ipotenuză și cateta alăturată (dacă laturile triunghiului sunt a, b și c și unghiurile opuse acestor laturi sunt A, B și C):

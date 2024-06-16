@@ -1,0 +1,11 @@
+Funcția sinus:
+sin:𝑅→[−1,1] este periodică (perioada principală T*=2𝜋), impară și mărginită.
+
+Funcția cosinus:
+cos:𝑅→[−1,1] este periodică (perioada principală T*=2𝜋), pară și mărginită.
+
+Funcția tangentă:
+tg:𝑅∖{𝜋/2+𝑘𝜋; 𝑘∈𝑍}→𝑅 este periodică (perioada principală T*=𝜋), impară și nemărginită.
+
+Funcția cotangentă:
+ctg:𝑅∖{𝑘𝜋; 𝑘∈𝑍}→𝑅 este periodică (perioada principală T*=𝜋), impară și nemărginită.

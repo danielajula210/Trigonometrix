@@ -1,0 +1,4 @@
+În matematică, prin funcții trigonometrice se înțeleg niște funcții ale unui unghi oarecare. Ele se folosesc la studierea triunghiurilor și reprezentarea unor fenomene periodice, printre multe altele.
+
+Definiția funcțiilor trigonometrice se bazează pe raporturi între laturi ale unui triunghi dreptunghic plan. Într-un astfel de triunghi, latura cea mai lungă, opusă unghiului drept, se numește ipotenuză, iar laturile care formează unghiul drept se numesc catete.
+În triunghiul dreptunghic, sinusul unui unghi ascuțit este definit ca raportul dintre lungimea catetei opuse și lungimea ipotenuzei. Similar, cosinusul unui unghi ascuțit este raportul dintre lungimea catetei alăturate și lungimea ipotenuzei:

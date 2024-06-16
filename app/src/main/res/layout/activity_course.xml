@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trigonometrix"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/course1Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curs 1"
+        android:layout_marginTop="140dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/course2Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curs 2"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/course3Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curs 3"
+        android:layout_marginTop="260dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/course4Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curs 4"
+        android:layout_marginTop="320dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/course5Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curs 5"
+        android:layout_marginTop="380dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/course6Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curs 6"
+        android:layout_marginTop="440dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/course7Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exerciții"
+        android:layout_marginTop="500dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/quizzButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiz final"
+        android:layout_marginTop="560dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

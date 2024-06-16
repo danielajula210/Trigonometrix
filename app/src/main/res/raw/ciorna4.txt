@@ -1,0 +1,1 @@
+Cosecanta (abreviată csc sau cosesc) este o funcție trigonometrică periodică, inversa funcției sinus, definită în contextul unui triunghi dreptunghic ca fiind raportul dintre ipotenuză și cateta opusă (dacă laturile triunghiului sunt a, b și c și unghiurile opuse acestor laturi sunt A, B și C):
